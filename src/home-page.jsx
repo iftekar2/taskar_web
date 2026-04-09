@@ -6,7 +6,7 @@ function HomePage() {
     <HomePageLayout>
       <ContentWrapper>
         <AppName>
-          <h1>Tasker</h1>
+          <h1>Taskar</h1>
         </AppName>
 
         <AppSlogan>

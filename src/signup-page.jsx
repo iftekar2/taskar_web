@@ -93,7 +93,7 @@ function SignupPage() {
   return (
     <SignupSection>
       <SignupCard as="form" onSubmit={handleSubmit}>
-        <Title>Join Tasker</Title>
+        <Title>Join Taskar</Title>
         <Row>
           <InputGroup>
             <label>First Name</label>

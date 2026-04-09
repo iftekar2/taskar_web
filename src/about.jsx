@@ -8,7 +8,7 @@ function About() {
         <PageTitle>The Blueprint for Better Repairs</PageTitle>
         <p>
           We’ve eliminated the endless calling and the quote-waiting game.
-          Tasker is a precision tool that connects homeowners with the exact
+          Taskar is a precision tool that connects homeowners with the exact
           expertise they need, exactly when they need it.
         </p>
       </Column>
