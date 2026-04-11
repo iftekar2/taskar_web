@@ -1,5 +1,5 @@
 import styled, { keyframes } from "styled-components";
-import downArrow from "./icons8-down.gif";
+import downArrow from "./icons/icons8-down.gif";
 
 function HomePage() {
   return (
